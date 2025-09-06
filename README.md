@@ -21,20 +21,40 @@ To run the project,
 App Screenshots:
   Initial Screen (Light Mode),
     <img width="449" height="942" alt="image" src="https://github.com/user-attachments/assets/9c08862d-6be0-4803-bee5-5e5b91995507" />
+    
+
+    
   Dark Mode,
     <img width="452" height="939" alt="image" src="https://github.com/user-attachments/assets/98361eb8-d796-40e1-9fee-0f934611a116" />
+
+
+    
   Adding New Flashcard,
     <img width="454" height="943" alt="image" src="https://github.com/user-attachments/assets/fd2fa3f9-27e0-428f-af06-a727e3b4888d" />
     <img width="460" height="939" alt="image" src="https://github.com/user-attachments/assets/1ba8ebbb-219f-41ba-84de-d078d369ab3e" />
+
+
+    
   After Adding,
     <img width="454" height="943" alt="image" src="https://github.com/user-attachments/assets/da684b24-814e-4c61-8526-5141b87dd4ac" />
+
+
+    
   Deleting Flashcard,
     <img width="451" height="938" alt="image" src="https://github.com/user-attachments/assets/39a67b45-9914-44b4-a89e-6c56ecea43b9" />
+
+
+    
   After Deleting,
     <img width="456" height="938" alt="image" src="https://github.com/user-attachments/assets/56304c24-8926-499b-bd77-b1e0ee14dc24" />
+
+
+    
   Invalid Input Handling,
   <img width="456" height="946" alt="image" src="https://github.com/user-attachments/assets/0d89d167-0cd2-4bd6-b13c-804fd6b236c6" />
   <img width="457" height="934" alt="image" src="https://github.com/user-attachments/assets/2b35a914-5845-4781-a950-14449d45312b" />
+
+  
 
 App Video:
   https://github.com/user-attachments/assets/476fe93c-13d1-4a23-8027-f283c687e14d
