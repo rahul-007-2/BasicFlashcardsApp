@@ -19,7 +19,6 @@ To run the project,
   3) For Windows, download Android Studio and use Virtual Emulator or physical device to run the app.
 
 App Screenshots:
-  
     <img width="449" height="942" alt="image" src="https://github.com/user-attachments/assets/9c08862d-6be0-4803-bee5-5e5b91995507" />
     <img width="452" height="939" alt="image" src="https://github.com/user-attachments/assets/98361eb8-d796-40e1-9fee-0f934611a116" />
     <img width="454" height="943" alt="image" src="https://github.com/user-attachments/assets/fd2fa3f9-27e0-428f-af06-a727e3b4888d" />
