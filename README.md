@@ -7,10 +7,11 @@ I have created a basic Flashcards App.
 It opens up to the flashcards screen with 5 default flashcards. It has options to add flashcards (with question and answer) and also can delete flashcards (except for the 5 default ones, which can be accessed in 'flashcards.js').The addition and deletion button opens up a modal with text input fields. These get stored in Async Storage and hence even if the app is closed, the newly added flashcards don't get deleted. It only accepts addition of flashcard if both question and answer is present and only accepts deletion if it is within the total number of flashcards. It also has a switch to toggle between dark and light modes, with icons for each (which also changes w.r.t the mode) to make UI look better.Tapping on the flashcard switches between question and answer. There are two buttons to navigate to next flashcard and previous flashcard. It also shows the current flashcard number.
 
 Dependencies to be installed:
-    npm install @react-navigation/native 
-    npm install react-native-screens 
-    npm install react-native-safe-area-context 
+    npm install @react-navigation/native, 
+    npm install react-native-screens, 
+    npm install react-native-safe-area-context, 
     npm install @react-native-async-storage/async-storage
+    
 These are the additional libraries I have used (in addition to built in libraies in ReactNative).
 
 To run the project,
