@@ -1,0 +1,2 @@
+export const defaultQuestions = ["Define an algorithm.", "What is the difference between scalar and vector quantities?", "What year did World War II end?", "What is the formula for the area of a circle?", "What is the process by which plants make their food using sunlight?"];
+export const defaultAnswers = ["A step-by-step procedure for solving a problem.", "Scalars have magnitude only; vectors have magnitude and direction.", "1945", "πr²", "Photosynthesis"];
